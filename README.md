@@ -4,7 +4,7 @@ This code is taken from the fabric-sample module of hyperledger to run the smart
 
 The smart contract that is written in go code is present in the **/artifacts/src/github.com/probit/** folder.
 
-It needs to be present in the fabric-samples folder to generate and access the certificates and to start the network.
+This application has  to be present in the fabric-samples folder to generate and access the certificates and to start the network.
 
 ## Running the sample program
 
